@@ -6,3 +6,4 @@ list_of_list = [
 
 for items in list_of_list:
     print(items)
+23
